@@ -1,15 +1,21 @@
-name: "CameronW"
-description: "my little place online"
+name:             "CameronW"
+description:      "my little place online"
 
-url: '/cameronwalker' 
-baseurl: ''
+url:              './cameronwalker' 
+baseurl:          ''
 
-markdown: kramdown
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-highlighter: rouge
+markdown:         kramdown
+markdown_ext:     "markdown,mkdown,mkdn,mkd,md"
+highlighter:      rouge
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
 
 kramdown:
-  input: GFM
+  input:          GFM
   syntax_highlighter: rouge
 
 plugins:
@@ -24,5 +30,5 @@ destination: ./_site
 
 sass:
     style: :compressed
-    sass_dir: assets/css/
+    sass_dir: _scss
 
