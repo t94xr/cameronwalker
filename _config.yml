@@ -1,7 +1,7 @@
 name: "CameronW"
 description: "my little place online"
 
-url: 't94xr.github.io/cameronwalker' 
+url: '/cameronwalker' 
 baseurl: ''
 
 markdown: kramdown
