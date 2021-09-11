@@ -1,6 +1,15 @@
 ---
 layout: default
 ---
+  <script>
+      setInterval(function() {
+          let emojis = ['🧑', '😅', '😎', '🤪', '🤔', '😂','👨‍💻','🥝'];
+          document.getElementById('emoji').innerHTML = emojis[Math.floor(Math.random() * emojis.length)];
+      }, 1000);
+  </script>
+<p class="intro">I'm a full time <mark style="font-weight: 700;">geek</mark>, i.t. professional and pc enthusiast.  <span id="emoji">😃</span><br />
+  seasoned computer &amp; tech expert who is passionate about learning about technology; hardware, web development, design &amp;
+  typography.</p>
 
 {% for post in paginator.posts %}
 <section>
