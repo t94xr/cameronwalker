@@ -1,6 +1,6 @@
 ---
 Title: "Error: Data Loss"
-permalink:  "/blog/:year-:month-:day-:title"
+Category: "blog"
 ---
 
 So yeah, the other night my servers main data drive, where I store basically **everything**; websites, junk files, training vids, PDFs, videos, 
