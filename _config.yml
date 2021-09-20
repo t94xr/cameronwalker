@@ -8,6 +8,8 @@ markdown:         kramdown
 markdown_ext:     "markdown,mkdown,mkdn,mkd,md"
 highlighter:      rouge
 
+permalink:           ":category/:year-:month-:slug.html"
+
 kramdown:
   input:          GFM
   syntax_highlighter: rouge
