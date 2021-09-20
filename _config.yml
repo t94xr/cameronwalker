@@ -8,11 +8,6 @@ markdown:         kramdown
 markdown_ext:     "markdown,mkdown,mkdn,mkd,md"
 highlighter:      rouge
 
-# Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
-permalink           ":category/:year-:month-:day-:title"
-
 kramdown:
   input:          GFM
   syntax_highlighter: rouge
