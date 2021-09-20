@@ -2,7 +2,7 @@
 Title: "Blog"
 permalink: "blog/"
 ---
-<h2>Blog Posts</h2>
+<h2>Blog</h2>
 <section class="posts">
 <ul>
 {% for post in site.posts %}
