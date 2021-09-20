@@ -9,8 +9,16 @@
     <nav>
       <a href="{{ site.url }}">Home</a>
       <a href="{{ site.url }}blog/">Blog</a>
+     
     <a href="//t94xr.github.io">Portal</a>
     </nav>
+    <nav>
+  {% for item in site.data.navigation %}
+    <a href="{{ item.link }}" {% if page.url == item.link %}style="color: red;"{% endif %}>
+      {{ item.name }}
+    </a>
+  {% endfor %}
+</nav>
   </section>
   </header>
   <div style="clear: both;"></div>
