@@ -1,9 +1,9 @@
-site: Sidey
-url: #yoururl
-title: Sidey
-description: Simple and minimalistic jekyll blogging theme.
+site: cameronwalker.nz
+url: https://cameronwalker.nz
+title: CameronW
+description: Computer Technician, IT Professional, Digital Nomad.
 twitter:
-  username: #yourusername
+  username: t94xr
   card: summary
   creator: #yourusername
 author:
@@ -14,7 +14,7 @@ author:
   url: #yoururl
 permalink: pretty
 
-baseurl: ""
+baseurl: "/"
 
 highlighter: none
 
