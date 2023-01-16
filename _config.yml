@@ -1,60 +1,62 @@
-baseurl: "/" # the subpath of your site, e.g. blog/
-url: "https://cameronwalker.nz" # the base hostname & protocol for your site, e.g. http://example.com/
-
-title: CameronW
-description: 
-
-#################### Comment Section (Disqus) ################
-disqus_shortname: "" # Add your shortname for Disqus Comment. For example : mr-brown
-
-# Scss Directory
-sass:
-  sass_dir: assets/scss
-  style: compressed
-
-# Build settings
-markdown: kramdown
+site: Sidey
+url: #yoururl
+title: Sidey
+description: Simple and minimalistic jekyll blogging theme.
+twitter:
+  username: #yourusername
+  card: summary
+  creator: #yourusername
+author:
+  twitter: #yourusername
+  name: #yourusername
+  avatar:
+  email: #youremail
+  url: #yoururl
 permalink: pretty
+
+baseurl: ""
+
+highlighter: none
+
+exclude:
+  - .jekyll-cache
+  
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
 plugins:
   - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll/tagging
+  - jekyll-seo-tag
+  - jekyll-sitemap  
 
-paginate: 6
-paginate_path: "/page/:num"
-
-# include
-include:
-  - _pages
-  - _authors
-
-# Pages Path
+collections:
+  pages:
+    output: true
+    permalink: /:name
+  posts:
+    output: true
+    permalink: /:year/:month/:day/:slug
+  
 defaults:
-  - scope:
-      path: "_pages"
+  -
+    scope:
+      path: ""
     values:
-      permalink: /:basename:output_ext
-
-  - scope:
-      path: "_authors"
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "pages"
     values:
-      permalink: /author/:basename:output_ext
-      layout: author
-
-  - scope:
+      layout: "page"
+  -
+    scope:
       path: ""
       type: "posts"
     values:
-      permalink: post/:title:output_ext
-      layout: post
-
-# Tags
-tag_page_dir: tag
-tag_page_layout: tags
-tag_permalink_style: pretty
-
-# Exclude from processing.
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - vendor
+      layout: "post"
