@@ -1,83 +1,63 @@
-# Site settings
-site: cameronwalker.nz
-title: CameronW
-keywords: blog
-description: >-
-  IT Professional, Digital Nomad, Geek.
-lang: en-US
-timezone:  Auckland/Pacific
-repo:  # site repo [optional]
-google_verify:      XXX # Put your Google Verification here
-google_analytics:   UA-XXXXXXXX-00 # Put your Google Analytics code
-discus-identifier:  XXX
+baseurl: "/northendlab-jekyll" # the subpath of your site, e.g. blog/
+url: "https://demo.themefisher.com" # the base hostname & protocol for your site, e.g. http://example.com/
 
-# Author settings
-author:
-  name: Cameron Walker
-  bio: Computer Technician, IT Professional<br>Web Designer &amp; Geek 🤓
-  picture: assets/images/profile.jpg 
-  github: t94xr # github username
-  twitter: t94xr # twitter username
-  facebook: t94xr # facebook username
-  instagram: t94xr # instagram username
-  youtube: https://www.youtube.com/channel/UC9vv06aLy64tJtzV7OoJJrQ # youtube username
-  linkedin:  # linkedin username
-  email: me@cameronwalker.nz # email adress
+title: Northendlab Jekyll | Personal Blog Template
+description: >- # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 
+#################### Comment Section (Disqus) ################
+disqus_shortname: "" # Add your shortname for Disqus Comment. For example : mr-brown
 
-# URL settings
-url: "https://cameronwalker.nz" # Domain Name of host. [username].github.io for github pages
-permalink: pretty
+# Scss Directory
+sass:
+  sass_dir: assets/scss
+  style: compressed
 
+# Build settings
 markdown: kramdown
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
-
-
-exclude:
-  - .jekyll-cache
-  - .obsidian
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE.md
-  - README.md
-  - CONTRIBUTING.md
-
+permalink: pretty
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-relative-links
-paginate: 20
+  - jekyll/tagging
+
+paginate: 6
 paginate_path: "/page/:num"
 
-collections:
-  pages:
-    output: true
-    permalink: /:name
-  posts:
-    output: true
-    permalink: /:slug
-  
+# include
+include:
+  - _pages
+  - _authors
+
+# Pages Path
 defaults:
-  -
-    scope:
-      path: ""
+  - scope:
+      path: "_pages"
     values:
-      layout: "default"
-  -
-    scope:
-      path: ""
-      type: "pages"
+      permalink: /:basename:output_ext
+
+  - scope:
+      path: "_authors"
     values:
-      layout: "page"
-  -
-    scope:
+      permalink: /author/:basename:output_ext
+      layout: author
+
+  - scope:
       path: ""
       type: "posts"
     values:
-      layout: "post"
+      permalink: post/:title:output_ext
+      layout: post
 
-relative_links:
-  enabled:     true
-  collections: false
+# Tags
+tag_page_dir: tag
+tag_page_layout: tags
+tag_permalink_style: pretty
+
+# Exclude from processing.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
