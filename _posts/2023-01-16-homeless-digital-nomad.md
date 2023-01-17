@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Homeless Digital Nomad
+date: 2023-01-16
 description: 
 summary: 
 tags: [css]
