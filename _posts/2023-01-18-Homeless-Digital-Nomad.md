@@ -3,8 +3,9 @@ layout: post
 title: Homeless Digital Nomad
 description: Newly homeless, I embark on a trip to Adelaide, Melbourne and back.
 summary: Newly homeless, I embark on a trip to Adelaide, Melbourne and back.
-tags: [life] [travel]
+tags: [life, travel]
 ---
+
 Late October me and my father were sent an email, informing us that the place we lived in for the last 8 years had been sold and we were given 90 days notice. So we started to look for another place to rent … within Taupo. 🤣 
 Which given the time of year and with so many applicants applying for housing within the region is well, not easy at the best of times - so we knew what was going to happen, we had a fairly good idea that we were not going to find another place to live within Taupo during November, December and January and probably February - so we planned to _for the most part_ to be homeless, so we organised storage, which actually managed to fit roughly 95% of what we own, the rest managing to fit into half of a friends garage just nearby - who was willing to take care of it.
 
