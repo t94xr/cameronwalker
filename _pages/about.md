@@ -9,7 +9,7 @@ title: About
 
 - 👨‍💻 All of my projects are available at [//t94xr.github.io](//t94xr.github.io)
 
-- 📝 I regularly write articles on [//cameronwalker.nz](//cameronwalker.nz)
+- 📝 I post stuff on [//cameronwalker.nz](//cameronwalker.nz)
 
 - 📫 How to reach me **me@cameronwalker.nz**
 
