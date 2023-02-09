@@ -9,11 +9,6 @@ layout: default
   </article>
   <span class="meta"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time> &middot; {% for tag in page.tags %}
     <a href="/tag/{{tag}}">{{tag}}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</span>
-
-    <div class="profile-block">
-      <p>
-          <strong>Cameron Walker</strong><span>&nbsp;is a full time <span>geek</span>, IT professional and pc enthusiast. 
-      </p>
   </div>
 </section>
 
