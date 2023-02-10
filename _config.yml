@@ -37,11 +37,11 @@ plugins:
 collections:
   pages:
     output: true
-    permalink: /:name
+    permalink: /:name.html
   posts:
     output: true
     #permalink: /:year/:month/:day/:slug
-    permalink: /:year:month:day-:slug
+    permalink: /:year:month:day-:slug.html
   
 defaults:
   -
