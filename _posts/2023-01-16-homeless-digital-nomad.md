@@ -1,6 +1,7 @@
 ---
-layout: post
+
 title: Homeless Digital Nomad
+layout: post
 description: 
 summary: 
 tags: [life,travel]
