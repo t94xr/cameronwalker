@@ -158,9 +158,9 @@ strong, b {
 	font-variant-numeric: tabular-nums;
 }
 
-.post ul, .project ul, .post ol  {
+//.post ul, .project ul, .post ol  {
 	//list-style-position: inside;
-}
+//}
 
 main {
 	display:flex;
@@ -309,7 +309,7 @@ font-style:italic;
 }
 
 span.meta a {
-	border 1px solid black;
+	border: 1px solid black;
 	padding: 3px;
 	text-transform: uppercase;
 }
