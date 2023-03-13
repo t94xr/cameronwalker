@@ -7,7 +7,7 @@ tags: [hardware, laptops, dell]
  
  So I was taking a look around and spotted a Dell Precision 5530 from [NZ PC Clearance](//nzpcclearance.co.nz/), then spotted the next version up, the 5540 edition. Still based off the XPS15 design but its more commercial professional counterpart.
  
- ####Dell Precision 5540 Mobile Workstation
+ #### Dell Precision 5540 Mobile Workstation
  - **Processor:** Intel® Core™ Processor i7-9750H, 6C/12T, 12M Cache, 2.60GHz up to 4.5GHz Turbo, 45W
 
 - **Video Card:** Nvidia Quadro T1000 w/4GB GDDR5
