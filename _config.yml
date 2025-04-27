@@ -27,3 +27,9 @@ sass:
     sass_dir: assets/css/
 
 permalink: /:year-:month-:title
+
+collections:
+  pages:
+    permalink: /:name.html
+  posts:
+    permalink: /:year:month:day-:slug.html
