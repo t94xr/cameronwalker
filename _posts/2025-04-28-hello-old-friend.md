@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hello, Old Friend."
-date: 2025-04-28
+date: 2025-04-28 01:00
 tags: [life]
 ---
 
