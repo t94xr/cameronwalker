@@ -74,11 +74,13 @@ div.container {
 }
 section.index {
     padding: 20px;
+    line-height: 2em;
+}
+section.index a {
+    font-weight: 600;
 }
 section.index span.post-date {
-    min-width: 125px;
-    display: none;
-
+    float: right;
 }
 
 blockquote {

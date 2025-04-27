@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset='utf-8'>
+    <title>
+        
+            Chromebook Research
+        
+    </title>
+    <link rel="stylesheet" href="/assets/css/style.css">
+
+    
+        <link rel='stylesheet' href='http://192.168.1.234:4000/assets/css/syntax.css' type='text/css'>
+    
+    
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+
+</head>
+
+<body>
+<div class="container">
+
+    <header>
+    <h1>Cameron's Notes</h1>
+    <!--
+    <h1><a href='http://192.168.1.234:4000/'>Cameron's Notes</a></h1>
+    -->
+    <p>my "dev blog" or my place to for stuff not suitable for <a href="//cameronwalker.nz">cameronwalker.nz</a></p>
+</header>
+<nav>
+<a href='http://192.168.1.234:4000/'> Home</a> | 
+<!--
+<a href='http://192.168.1.234:4000/about/'>About </a> | 
+<a href='http://192.168.1.234:4000/contact/'> Contacts</a> | 
+-->
+<a href='http://192.168.1.234:4000/archive/'> Archive</a> 
+</nav>
+
+    <h1>Chromebook Research</h1>
+<div class='separator'></div>
+        
+<p>I recently purchased a <a href="//youtube.com/watch?v=9CRktwzULks">HP Chromebook 14</a>.I found a cheap listed secondhand item, looked to be a bit messy - apparently it’s major malfunction was a DOA internal battery - a <a href="//hplaptopbattery.co.nz/hp-chromebook-14-q009tu-batteries.htm">replacement</a> worth another $99 from a NZ Supplier.I also have now, a redunandant 64G mSATA card - which was the OS drive for my linux server which was discomissioned after I migrated to a Mac mini &amp; while during that migration, I suffered a massive drive failure.After doing some investigation, I found that the mSATA SSD &amp; the battery are basically the only two user replacable components <em>(ignoring the daughter board)</em>.- <a href="//youtube.com/watch?v=hlp3UCudrCA">Disassembly of HP Chromebook 14 &amp; upgrade of its SSD!</a></p>
+<ul>
+  <li><a href="//youtube.com/watch?v=-a0r_nNAqlw">HP Chromebook Disassembly Replace SSD Reassembly. Chrome OS Missing or Damaged</a>I also remember some time ago, ChromeOS was getting support for Linux Apps.Some investigation <a href="//linux.slashdot.org/story/18/08/24/1358255/linux-apps-are-not-coming-to-many-still-supported-chromebooks">there’s a bunch of Chromebooks</a> that won’t be getting that support, thankfully mine isn’t on the list … From what I can understand it’s because of them having ARM processors? I’m not sure.Now apparently there is not a BIOS menu, one can boot into - but appears to be more of a closed off UEFI bootloader setup; as evidenced by this video, ‘<a href="//youtube.com/watch?v=Nzp_fmG4QRA">Modify the BIOS on your Chromebook</a>‘.If things go well, the Linux support might need a bit more than a 64G SSD, so I might install a <a href="//aliexpress.com/item/KingSpec-Factory-Sale-ACSC4M256mSA-256GB-mSATA-Hard-Drive-Disk-SSD-mSATA-Solid-State-Drive-Module-For/32730715407.html">256G mSATA</a>.Interestingly the 14-x003tu SKU, has a NVIDIA Tegra K1 Processor, onboard 4GB RAM &amp; 16/32GB eMMC onboard SSD.Additionally the <a href="http://h10032.www1.hp.com/ctg/Manual/c03936089">Maintainence &amp; Service Guide</a> provides two different boards a 4GB &amp; 2GB variant, same Processor - but it also indicates 16GB &amp; 32GB SKUs - I do have a 32G mSATA around spare, <em>two actually</em> but there’s every potential that it might not even accept a 64GB mSATA upgrade.After some looking around, I <em>might</em> be able to upgrade the memory on the board too! They appear to be FBGA chips, 1G DDR3 SDRAM.
+During the upgrade &amp; battery replacement, I’ll take a look at what chips my board has, it appears HP installs Micron modules on 4GB SKUs, but prefers to use SK-hynix chips for the 2GB SKUs.I just need access to a heat gun station, it might be an interesting project - upgrading RAM on a Chromebook. I don’t think it’s been done before? Well upgrading RAM on a board <em>without</em> SODIMM slots, intended for memory upgrades.</li>
+</ul>
+
+        
+
+
+
+
+<footer>
+    <p>Built with <a href="https://jekyllrb.com/">Jekyll</a></p>
+</footer>
+</div>
+</body>
+</html>

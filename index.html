@@ -6,9 +6,8 @@ layout: default
 
 <section class="index">
 {% for post in paginator.posts %}
-<span class="post-date">{{ post.date | date: "%B %-d, %Y" }}</span> <a href='{{ site.url }}{{ post.url }}' title='{{ post.title }}'>
-      {{ post.title }}
-    </a><br />
+ <a href='{{ site.url }}{{ post.url }}' title='{{ post.title }}'>{{ post.title }}</a>
+ <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span><br />
  {% endfor %}
 </section>       
 
