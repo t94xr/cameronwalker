@@ -2,8 +2,24 @@
 layout: default
 ---
 
+<section class="index">
+  {% for post in paginator.posts %}
+    <a href='{{ site.url }}{{ post.url }}' title='{{ post.title }}'>{{ post.title }}</a>
+     <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+    {% if post.tags %}
+      <span class="post-tags">
+        {% for tag in post.tags %}
+          <span class="tag {{ tag }}">{{ tag }}</span>
+        {% endfor %}
+      </span>
+    {% endif %}
+<br />
+  {% endfor %}
+</section>
 
 
+<!--
 <section class="index">
 {% for post in paginator.posts %}
  <a href='{{ site.url }}{{ post.url }}' title='{{ post.title }}'>{{ post.title }}</a>
@@ -11,7 +27,7 @@ layout: default
  {% endfor %}
 </section>       
 
-<!--
+
 {% if paginator.previous_page %}
 <a href='{{ site.url }}{{ paginator.previous_page_path }}'>Previous</a>
 {% endif %}

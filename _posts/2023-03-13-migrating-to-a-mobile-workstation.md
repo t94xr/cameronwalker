@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Migrating to a Mobile Workstation"
-tags: [hardware, laptops, dell]
+tags: hardware laptops travel
 ---
 ![](https://cdn.mos.cms.futurecdn.net/RHnYjJvGD2V6U2Yijmap4b.jpg)
  While I was travelling, the [Dell XPS 13 9310](//youtu.be/Cqa9hlRb1cc) was perfect, powerful, light, 4K OLED, 512G SSD, 11th Gen Core i7 tiny powerhouse! But now most of my "travelling" has stopped for the most part now - but I'm still homeless and most likely looking to be for atleast a few months, until we can secure a new house to move into, I need something just a bit ... bigger. Something just as powerful, with a graphics card, must have 4K and preferably 15 inches up!

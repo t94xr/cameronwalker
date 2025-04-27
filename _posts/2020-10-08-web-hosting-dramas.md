@@ -1,6 +1,7 @@
 ---
 Title: "Web Hosting Dramas"
 layout: post
+tags: linux hardware cloud
 ---
 
 When most of us thinking of hosting our website, most of us wouldn't have considered Google Cloud Platform as a viable choice - since we want cpanel, a manage platform - support and the ability to setup email and such.But in the days of gmail, the need of a domain hosted email address might not be so critical so having a domain and hosting - without the serious need of a IMAP/POP3 account for email makes life easier.I was in a situation, for myself I needed a good web hosting provider - cheap _(up to $5/mo)_ and most importantly one that supported the new structure of [Statamic 3](//statamic.com) requiring the ability to change the public_html/ folder to public_html/public/ ... Something that I've found basically no standard ... affordable web hosting provider does! _Even if you're willing to pay up 10yrs hosting in advance!_So I was a situation, I had to host my website, but it had to be flexible to change the public_html folder to a subfolder _and_ be affordable long term.So I went looking around, came to the conclusion that I was not going to make it happen, so I looked at VPS solutions - that were affordable.

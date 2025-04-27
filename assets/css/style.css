@@ -22,7 +22,7 @@ body {
     color: #121212;
 }
 
-h1, h2, h3 {
+h1, h2, h3, h4, h5, h6 {
     font-family: 'Cooper Hewitt Bold', sans-serif;
     font-weight: 900;
     text-transform: uppercase;
@@ -113,3 +113,59 @@ article {
 header img {
     max-width: 300px;
 }
+.post-tags {
+margin-left: 10px;
+font-weight: 600;
+vertical-align: middle;
+  }
+  
+  .post-tags .tag {
+    background-color: #eee;
+    color: #333;
+    padding: 3px 5px 3px 5px;
+    margin: 0;
+    border-radius: 4px;
+    font-size: 7pt;
+    text-transform: uppercase;
+    vertical-align: middle;
+}
+.post-tags .life { background-color: #ffadad; color: #fff; }
+.post-tags .thoughts { background-color: #ffd6a5; color: #fff; }
+.post-tags .inspiration { background-color: #fdffb6; color: #333; }
+.post-tags .personal { background-color: #caffbf; color: #333; }
+.post-tags .journal { background-color: #9bf6ff; color: #333; }
+.post-tags .update { background-color: #a0c4ff; color: #fff; }
+.post-tags .announcement { background-color: #bdb2ff; color: #fff; }
+.post-tags .random { background-color: #ffc8dd; color: #333; }
+.post-tags .projects { background-color: #d0f4de; color: #333; }
+
+.post-tags .tech { background-color: #ffc6ff; color: #333; }
+.post-tags .hardware { background-color: #fb5607; color: #fff; }
+.post-tags .software { background-color: #ff006e; color: #fff; }
+.post-tags .programming { background-color: #8338ec; color: #fff; }
+.post-tags .coding { background-color: #3a86ff; color: #fff; }
+.post-tags .webdev { background-color: #06d6a0; color: #fff; }
+.post-tags .linux { background-color: #118ab2; color: #fff; }
+.post-tags .open-source { background-color: #073b4c; color: #fff; }
+.post-tags .tools { background-color: #f4a261; color: #fff; }
+.post-tags .gadgets { background-color: #e76f51; color: #fff; }
+.post-tags .gaming { background-color: #8d99ae; color: #fff; }
+.post-tags .cloud { background-color: #48cae4; color: #fff; }
+.post-tags .hosting { background-color: #00b4d8; color: #fff; }
+.post-tags .website { background-color: #0077b6; color: #fff; }
+.post-tags .typography { background-color: #90e0ef; color: #333; }
+.post-tags .server-admin { background-color: #023e8a; color: #fff; }
+.post-tags .debian { background-color: #ffb703; color: #333; }
+.post-tags .fedora { background-color: #fb8500; color: #fff; }
+
+.post-tags .tutorials { background-color: #264653; color: #fff; }
+.post-tags .how-to { background-color: #2a9d8f; color: #fff; }
+.post-tags .guide { background-color: #e9c46a; color: #333; }
+.post-tags .learning { background-color: #f4a261; color: #fff; }
+.post-tags .education { background-color: #e76f51; color: #fff; }
+.post-tags .resources { background-color: #8ecae6; color: #333; }
+
+.post-tags .travel { background-color: #219ebc; color: #fff; }
+.post-tags .food { background-color: #023047; color: #fff; }
+.post-tags .fitness { background-color: #ffb703; color: #333; }
+.post-tags .health { background-color: #fb8500; color: #fff; }

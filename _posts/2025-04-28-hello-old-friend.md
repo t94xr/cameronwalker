@@ -2,7 +2,7 @@
 layout: post
 title: "Hello, Old Friend."
 date: 2025-04-28 01:00
-tags: [life]
+tags: life tech hardware linux
 ---
 
 So it’s been a while, yes. I know, I really should blog more – a fair bit has happened.

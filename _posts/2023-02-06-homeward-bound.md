@@ -3,7 +3,7 @@ layout: post
 title: Homeward Bound
 description: 
 summary: 
-tags: [life,travel]
+tags: life travel food
 ---
 
 So I'm on my way home soon, well back to Taupo 😒

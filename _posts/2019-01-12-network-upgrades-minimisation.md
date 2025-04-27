@@ -3,7 +3,7 @@ Title: "Network Upgrades & Minimisation"
 layout: post
 description: 
 summary: 
-tags: [tech, network]
+tags: tech hardware
 ---
 
 ![](/assets/blog/home-network-setup-completed.jpg)Recently I've "taken over" the top part of our pantry cubboard - it's a cheap thing so it's not a big deal what I really do with it, but I've been having fun! I did have a big full 6U wallmount rackmount cabinet that I used to put my gear in, but I've decided to reduce everything down.I now run,- **Synology Diskstation DS213j**

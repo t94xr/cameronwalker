@@ -3,7 +3,7 @@ Title: "Twenty-Twenty - Apples & Oranges"
 layout: post
 description: 
 summary: 
-tags: [life,financial]
+tags: life money tech hardware
 ---
 
 Well since my last post, we've watched the world burn with COVID-19 lockdowns, deaths and economic drops and rebounds.It's been a long time since I've updated my blog because of a few issues that revolved around people taking things I've said completely out of context and using it to cause issues in my life, I held back posting things. But in that time I've changed a few things...[Statamic 3](//statamic.com) has been released, I was previously running a Statamic 2 installation - I've moved my server from the traditional hosting to the [Google Cloud Platform](//cloud.google.com) - which allows me to run a virtual machine instance of Debian 10, Apache2 & PHP7.3 which I've configured to run with Statamic 3. I do need to figure out how to configure a mail redirect daemon on it though; something I'll sort out soon.I've decided to be better with where I put my money this year and from now on, focusing more investing (using [Sharesies](//sharesies.nz/)) and moving my KiwiSaver to [Simplicity](//simplciity.kiwi) [Balanced Fund](//mindfulmoney.nz/kiwisaver/FND696/simplicity-balanced-fund/) and I've started to make regular payments into it each week. 💲💲

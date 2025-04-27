@@ -1,9 +1,7 @@
 ---
 Title: "Chromebook Research"
 layout: post
-description: 
-summary: 
-tags: [tech,hardware]
+tags: tech hardware
 ---
 
 I recently purchased a [HP Chromebook 14](//youtube.com/watch?v=9CRktwzULks).I found a cheap listed secondhand item, looked to be a bit messy - apparently it's major malfunction was a DOA internal battery - a [replacement](//hplaptopbattery.co.nz/hp-chromebook-14-q009tu-batteries.htm) worth another $99 from a NZ Supplier.I also have now, a redunandant 64G mSATA card - which was the OS drive for my linux server which was discomissioned after I migrated to a Mac mini & while during that migration, I suffered a massive drive failure.After doing some investigation, I found that the mSATA SSD & the battery are basically the only two user replacable components _(ignoring the daughter board)_.- [Disassembly of HP Chromebook 14 & upgrade of its SSD!](//youtube.com/watch?v=hlp3UCudrCA)

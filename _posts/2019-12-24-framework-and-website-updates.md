@@ -3,7 +3,7 @@ Title: "Framework & Website Updates"
 layout: post
 description: 
 summary: 
-tags: [website]
+tags: website software coding webdev
 ---
 
 Okay so I released an early build of my CSS Framework. Its definitely not a complete or a finished product, but it's a work in progress.- **[Paeroa CSS](//t94xr.github.io/paeroa-css/)**Its a very clean, stylistic and typographic framework, I even used it to design this website.Taking major inspiration from [Tacit](//yegor256.github.io/tacit/) being a classless framework, a relatively simple one - I call mine a class minimal framework, having the fundamental design being basically classless, with more advanced options and other features available using simple classes.I also used it to clean up my [github site](//t94xr.github.io) - which I've updated into a portal to where I am online, a bio and contact information.Paeroa CSS requires a few more things, like better CSS for tables, more CSS for Form fields, a CSS stylesheet for Printing, as well as Typographical enhancements and style improvements.[Statamic v3](//statamic.dev) is also a free upgrade to v2 license holders like myself - so I plan to have the theme considerably enhanced.I learned a fair bit about SASS/SCSS..

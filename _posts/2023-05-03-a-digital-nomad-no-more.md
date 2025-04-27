@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Digital Nomad no more!"
-tags: [life]
+tags: life tech update
 ---
 ![](https://pacificenvironments.co.nz/wp-content/uploads/2021/05/Pacific-Environments-Kainga-Ora-Transitional-Housing-Architecture-2.jpg)
 🏠**We have a house!**🥳🥳 *(not any of these houses)*
@@ -17,7 +17,7 @@ Dad got a bunch of his lodge friends to come help us move, grabbing all of our s
 
 With it a being a much newer house, I purchased a [wireless security camera system](//amazon.com.au/gp/product/B0BD97BNF4), an upgraded [WiFi Access Point](//amazon.com.au/dp/B09TYX13F2) and a couple other items which will be delivered soon. I need to sort out the network wiring of the building, find out what plugs are what in relation to the rack of ports in the "Comms box" located in dads room, then I can setup my network and server and NAS units up again, I plan to have them up and running next week, fingers crossed.
 
-I plan to sell of my old wired seucirty camera system, a few other items - I've already sold off my 7th Gen 7600K 32G RAM combo with the Corsair Hydro H80 and since it was a mate who purchased it, I threw in a 512G NVME M.2 to add to his own 512G NVME M.2 he pulled from his previous board.
+I plan to sell of my old wired security camera system, a few other items - I've already sold off my 7th Gen 7600K 32G RAM combo with the Corsair Hydro H80 and since it was a mate who purchased it, I threw in a 512G NVME M.2 to add to his own 512G NVME M.2 he pulled from his previous board.
 I might sell off the Dell XPS13 I have, since I have no real reason to have that around anymore.
 
 We will see... 😁

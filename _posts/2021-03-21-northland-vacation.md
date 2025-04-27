@@ -3,7 +3,7 @@ Title: "Northland Vacation"
 layout: post
 description: 
 summary: 
-tags: [life,travel]
+tags: life travel food
 ---
 Start of the year me and my father went out on a northland trip; [Cape Reinga](//en.wikipedia.org/wiki/Cape_Reinga) - yes I walked all the day down and all the way up; 10min walk down to the lighthouse, then a 30-45min walk back to the carpark up the top.
 
