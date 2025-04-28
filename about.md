@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "About"
+permalink: /about/
 ---
 # About
 With extensive experience in Information Technology (IT), I have honed my skills as a computer technician and tech professional.
