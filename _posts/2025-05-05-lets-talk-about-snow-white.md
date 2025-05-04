@@ -32,6 +32,6 @@ Sure, go ahead and create a new character. Make her Black and half-Asian, make h
 
 
 
-[^dailymail1]: [Daily Mail UK](//dailymail.co.uk) - [Movie studio behind blockbuster smashes has purged woke staff to try and improve its movies - but rival behind iconic franchise has doubled down on woke, expert claim](//dailymail.co.uk/tvshowbiz/article-13706225/Movie-studio-blockbuster-smashes-purged-woke-staff-try-improve-movies-rival-iconic-franchise-doubled-woke-expert-claim.html)
+[^dailymail1]: <a href="https://dailymail.co.uk/tvshowbiz/article-13706225/Movie-studio-blockbuster-smashes-purged-woke-staff-try-improve-movies-rival-iconic-franchise-doubled-woke-expert-claim.html" target="_blank">Daily Mail UK - Movie studio behind blockbuster smashes has purged woke staff...</a>
 
-[^boxoffice]: [Disney Issues Statement on Little Mermaid 2023 Viewership Following 'Flop' Reports](https://thedirect.com/article/little-mermaid-disney-flop-viewership)
+[^boxoffice]: <a href="https://thedirect.com/article/little-mermaid-disney-flop-viewership" target="_blank">Disney Issues Statement on Little Mermaid 2023 Viewership...</a>
