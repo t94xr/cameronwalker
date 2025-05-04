@@ -2,7 +2,7 @@
 layout: post
 title: "Let's talk about Snow White."
 date: 2025-04-28 01:00
-tags: thoughts, movies, culture
+tags: thoughts movies culture
 ---
 
 So I watched *Hollywood Confidential*'s video on *Snow White*, [**Rachel Zegler DEMANDS South Park Episode Be BANNED After Getting Humiliated on TV!?**](https://youtu.be/LVJosjUNeNc), and it covers the situation quite comprehensively.
