@@ -8,9 +8,12 @@ markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 highlighter: rouge
 
+markdown: kramdown
 kramdown:
   input: GFM
-  syntax_highlighter: rouge
+  hard_wrap: false
+  footnote_nr: 1
+  parse_block_html: true
 
 plugins:
   - jekyll-paginate
