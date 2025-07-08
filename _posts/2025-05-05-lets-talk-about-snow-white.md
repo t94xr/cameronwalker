@@ -28,10 +28,9 @@ Sure, go ahead and create a new character. Make her Black and half-Asian, make h
 [^1]: See: Daily Mail article about Marvel reportedly telling staff to stop pushing ideological content.  
 [^2]: Reference to box office success and general reception of the *Lion King* CGI remake staying faithful to the original.
 
-
-
-
-
 [^dailymail1]: <a href="https://dailymail.co.uk/tvshowbiz/article-13706225/Movie-studio-blockbuster-smashes-purged-woke-staff-try-improve-movies-rival-iconic-franchise-doubled-woke-expert-claim.html" target="_blank">Daily Mail UK - Movie studio behind blockbuster smashes has purged woke staff...</a>
 
 [^boxoffice]: <a href="https://thedirect.com/article/little-mermaid-disney-flop-viewership" target="_blank">Disney Issues Statement on Little Mermaid 2023 Viewership...</a>
+
+
+
