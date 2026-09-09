@@ -1,52 +1,35 @@
 <!DOCTYPE html>
-<html>
+<html lang="en-us">
+  {% include head.html %}
+  <body>
+    <div class="masthead">
+      <div class="container center">
+        <a href="{{ site.baseurl }}" title="" class="masthead-title">{{ site.title }}</a>
 
-<head>
-    <meta charset='utf-8'>
-    <title>
-        {% if page.title %}
-            {{ page.title }}
-        {% else %} 
-            {{ site.name }} &mdash; {{ site.description }}
-        {% endif %}
-    </title>
-    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+      
+        <nav class="nav" role="navigation">
+          <ul>
+            {% assign pages_list = site.pages %}{% for node in pages_list %}{% if node.title != null %}{% if node.layout == "page" %}{% if node.featured == true %}<li><a class="{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}" title="Joe's {{node.title}}">{{ node.title }}</a></li>{% endif %}{% endif %}{% endif %}{% endfor %}
+          </ul>
+        </nav>
+      </div>
+    </div> <!-- end masthead -->
 
-    <link type="image/png" sizes="96x96" rel="icon" href="https://img.icons8.com/color/96/working-with-a-laptop.png">
-    <link rel="icon" href="{{ '/assets/favicon.ico' | relative_url }}" type="image/x-icon">
+    <div class="container content">
 
+      <div role="main">
+        {{ content }}
+      </div>
 
+      <div class="footer" role="contentinfo">
+        <ul>
+          <li><a href="/atom.xml" title="Atom">Atom</a></li>
+          <li><a href="/rss.xml" title="RSS">RSS</a></li>
+          <li><a href="mailto:me@cameronwalker.nz" title="email me">Contact</a></li>
+        </ul>
+      </div>
 
-    <meta name="description" content="Sharing thoughts on life and more.">
-    <meta name="author" content="Cameron Walker">
+    </div>
 
-     <!-- Open Graph (for better sharing on social media) -->
-  <meta property="og:title" content="Cameron Walker - Blog">
-  <meta property="og:description" content="Sharing thoughts on life and more.">
-  <meta property="og:type" content="website">
-  <meta property="og:url" content="https://cameronwalker.nz/">
-  <meta property="og:image" content="{{ site.url }}/assets/og-cameronwalker.png">
-
-
-    {% if site.highlighter %}
-        <link rel='stylesheet' href='{{ site.url }}/assets/css/syntax.css' type='text/css'>
-    {% endif %}
-    
-    <meta name='viewport' content='width=device-width, initial-scale=1'>
-
-</head>
-
-<body>
-<div class="container">
-
-    {% include header.html %}
-<article>
-    {{ content }}
-</article>
-<div style="clear: both;"></div>
-<footer>
-    <p>Built with <a href="https://jekyllrb.com/">Jekyll</a></p>
-</footer>
-</div>
-</body>
+  </body>
 </html>

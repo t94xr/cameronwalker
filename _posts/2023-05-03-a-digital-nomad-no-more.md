@@ -3,8 +3,6 @@ layout: post
 title: "A Digital Nomad no more!"
 tags: life tech update
 ---
-![](https://pacificenvironments.co.nz/wp-content/uploads/2021/05/Pacific-Environments-Kainga-Ora-Transitional-Housing-Architecture-2.jpg)
-🏠**We have a house!**🥳🥳 *(not any of these houses)*
 
 Thankfully to [Kainga Ora](//kaingaora.govt.nz/), we moved in a week ago and wow it's been a big move, the house is newer, cleaner, warmer, bigger in general and it's actually affordable.
 

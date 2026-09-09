@@ -1,5 +1,7 @@
-source "https://rubygems.org"
-gem "jekyll", "~> 4.4"
-gem "bundler", "~> 2.6"
-gem "jekyll-paginate"
+# frozen_string_literal: true
 
+source "https://rubygems.org"
+
+# gem "rails"
+
+gem "jekyll", "~> 4.4"

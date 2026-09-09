@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Cameron Walker</title>
+ <link href="http://192.168.1.234:4000/atom.xml" rel="self"/>
+ <link href="http://192.168.1.234:4000/"/>
+ <updated>2026-09-09T17:58:40+12:00</updated>
+ <id>http://192.168.1.234:4000/</id>
+ <author>
+   <name>Cameron Walker</name>
+   <email>cameronwalker@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Let&apos;s talk about Snow White.</title>
+   <link href="http://192.168.1.234:4000//blog/2025-lets-talk-about-snow-white.html"/>
+   <updated>2025-04-28T01:00:00+12:00</updated>
+   <id>http://192.168.1.234:4000/blog/lets-talk-about-snow-white</id>
+   <content type="html">&lt;p&gt;So I watched &lt;em&gt;Hollywood Confidential&lt;/em&gt;’s video on &lt;em&gt;Snow White&lt;/em&gt;, &lt;a href=&quot;https://youtu.be/LVJosjUNeNc&quot;&gt;&lt;strong&gt;Rachel Zegler DEMANDS South Park Episode Be BANNED After Getting Humiliated on TV!?&lt;/strong&gt;&lt;/a&gt;, and it covers the situation quite comprehensively.&lt;/p&gt;
+
+&lt;p&gt;I totally agree. I’m 40 years old, and I remember having to sit through &lt;em&gt;Snow White&lt;/em&gt; as a kid. Even back then, I understood the message it was sending to young girls: the kindness of the dwarfs, the hope of...</content>
+ </entry>
+ 
+ <entry>
+   <title>Hello, Old Friend.</title>
+   <link href="http://192.168.1.234:4000//blog/2025-hello-old-friend.html"/>
+   <updated>2025-04-28T01:00:00+12:00</updated>
+   <id>http://192.168.1.234:4000/blog/hello-old-friend</id>
+   <content type="html">&lt;p&gt;So it’s been a while, yes. I know, I really should blog more – a fair bit has happened.&lt;/p&gt;
+
+&lt;p&gt;I lost another close friend of mine back in late 2023, that hit me hard. Someone I talked to, almost daily for &lt;em&gt;literally&lt;/em&gt; hours on end, would often visit and hang out with suddenly passed away while at work, she felt unwell after leaving the bathroom and collapsed. That left a very big gap in my life.&lt;/p&gt;
+
+&lt;p&gt;Late June 2024, I upgraded my server, I was using a Lenovo Thinkcentre Tiny, a ...</content>
+ </entry>
+ 
+ <entry>
+   <title>A Digital Nomad no more!</title>
+   <link href="http://192.168.1.234:4000//blog/2023-a-digital-nomad-no-more.html"/>
+   <updated>2023-05-03T00:00:00+12:00</updated>
+   <id>http://192.168.1.234:4000/blog/a-digital-nomad-no-more</id>
+   <content type="html">&lt;p&gt;Thankfully to &lt;a href=&quot;//kaingaora.govt.nz/&quot;&gt;Kainga Ora&lt;/a&gt;, we moved in a week ago and wow it’s been a big move, the house is newer, cleaner, warmer, bigger in general and it’s actually affordable.&lt;/p&gt;
+
+&lt;p&gt;We were staying in Emergency Accomodation at &lt;a href=&quot;//lakefrontlodgetaupo.co.nz/&quot;&gt;Lakefront Lodge, Taupo&lt;/a&gt; for about 3 months, which was okay. But it was getting to be rather difficult living in a situation like that for months on end, also long term EA was starting to affect my fat...</content>
+ </entry>
+ 
+
+</feed>

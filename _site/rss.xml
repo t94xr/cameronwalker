@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Cameron Walker</title>
+		<description></description>
+		<link>http://192.168.1.234:4000</link>
+		<atom:link href="http://192.168.1.234:4000/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Let&apos;s talk about Snow White.</title>
+				<description>&lt;p&gt;So I watched &lt;em&gt;Hollywood Confidential&lt;/em&gt;’s video on &lt;em&gt;Snow White&lt;/em&gt;, &lt;a href=&quot;https://youtu.be/LVJosjUNeNc&quot;&gt;&lt;strong&gt;Rachel Zegler DEMANDS South Park Episode Be BANNED After Getting Humiliated on TV!?&lt;/strong&gt;&lt;/a&gt;, and it covers the situation quite comprehensively.&lt;/p&gt;
+
+&lt;p&gt;I totally agree. I’m 40 years old, and I remember having to sit through &lt;em&gt;Snow White&lt;/em&gt; as a kid. Even back then, I understood the message it was sending to young girls: the kindness of the dwarfs, the hope of...</description>
+				<pubDate>Mon, 28 Apr 2025 01:00:00 +1200</pubDate>
+				<link>http://192.168.1.234:4000/blog/2025-lets-talk-about-snow-white.html</link>
+				<guid isPermaLink="true">http://192.168.1.234:4000/blog/2025-lets-talk-about-snow-white.html</guid>
+			</item>
+		
+			<item>
+				<title>Hello, Old Friend.</title>
+				<description>&lt;p&gt;So it’s been a while, yes. I know, I really should blog more – a fair bit has happened.&lt;/p&gt;
+
+&lt;p&gt;I lost another close friend of mine back in late 2023, that hit me hard. Someone I talked to, almost daily for &lt;em&gt;literally&lt;/em&gt; hours on end, would often visit and hang out with suddenly passed away while at work, she felt unwell after leaving the bathroom and collapsed. That left a very big gap in my life.&lt;/p&gt;
+
+&lt;p&gt;Late June 2024, I upgraded my server, I was using a Lenovo Thinkcentre Tiny, a ...</description>
+				<pubDate>Mon, 28 Apr 2025 01:00:00 +1200</pubDate>
+				<link>http://192.168.1.234:4000/blog/2025-hello-old-friend.html</link>
+				<guid isPermaLink="true">http://192.168.1.234:4000/blog/2025-hello-old-friend.html</guid>
+			</item>
+		
+			<item>
+				<title>A Digital Nomad no more!</title>
+				<description>&lt;p&gt;Thankfully to &lt;a href=&quot;//kaingaora.govt.nz/&quot;&gt;Kainga Ora&lt;/a&gt;, we moved in a week ago and wow it’s been a big move, the house is newer, cleaner, warmer, bigger in general and it’s actually affordable.&lt;/p&gt;
+
+&lt;p&gt;We were staying in Emergency Accomodation at &lt;a href=&quot;//lakefrontlodgetaupo.co.nz/&quot;&gt;Lakefront Lodge, Taupo&lt;/a&gt; for about 3 months, which was okay. But it was getting to be rather difficult living in a situation like that for months on end, also long term EA was starting to affect my fat...</description>
+				<pubDate>Wed, 03 May 2023 00:00:00 +1200</pubDate>
+				<link>http://192.168.1.234:4000/blog/2023-a-digital-nomad-no-more.html</link>
+				<guid isPermaLink="true">http://192.168.1.234:4000/blog/2023-a-digital-nomad-no-more.html</guid>
+			</item>
+		
+	</channel>
+</rss>
