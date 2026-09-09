@@ -9,8 +9,7 @@ permalink:        /blog/:year-:title.html
 # Setup
 title:            Cameron Walker
 description:      ""
-url:              https://cameronwalker.nz
-#url:              http://localhost:4000
+url:              /
 baseurl:          /
 
 author:
