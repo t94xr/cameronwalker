@@ -31,11 +31,14 @@ My goal is to get out of the house, be active 😅, travel a bit, film, edit, gr
 
 I already [uploaded a video][pexels-cw-lake] I filmed, while I was at the [Taupo Harbourmaster][taupo-harbour] for a few hours one morning, I filmed that on my DJI Osmo Action (Gen 1) camera, at 4K30 - sadly it doesn't have a color grading profile like D-LOG M, it uses D-Cinelike which is very close to Rec.709 but requires some adjustment and doesn't have alot of support, so I may have to generate my own LUTs. But I plan to use it as a secondary camera or backup along side my [Osmo Action 5 Pro][pbtech-action5pro]. 
 
-I may record media side by side, generate a LUT to match, maybe release it on github for the DJI Osmo Action (Gen1), I'm not sure. But its a 8-bit Camera, so who knows.
+I may record media side by side, generate a LUT to match, maybe release it on [github][github-t94xr] for the DJI Osmo Action (Gen1), I'm not sure. But its a 8-bit Camera, so who knows.
 
 I may also have a side project that could start up, editing footage where I may end up having a small amount of side income, *hopefully*. That would be an exciting thing to get into, it would get me out of the house, going to locations, filming & such.
 
 I also want to record stuff, capture memories with my new partner.
+
+
+[github-t94xr]: https://github.com/t94xr
 
 [dvr-studio]: https://www.blackmagicdesign.com/products/davinciresolve/studio "Davinci Resolve Studio"
 [pbtech-action5pro]: https://www.pbtech.co.nz/product/CAMDJI21106154/DJI-Osmo-Action-5-Pro-Adventure-Combo "DJI Osmo Action 5 Pro Adventure Combo"
