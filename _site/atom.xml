@@ -4,13 +4,23 @@
  <title>Cameron Walker</title>
  <link href="http://192.168.1.234:4000/atom.xml" rel="self"/>
  <link href="http://192.168.1.234:4000/"/>
- <updated>2026-09-09T17:58:40+12:00</updated>
+ <updated>2026-10-12T17:10:49+13:00</updated>
  <id>http://192.168.1.234:4000/</id>
  <author>
    <name>Cameron Walker</name>
    <email>cameronwalker@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>New Gear, Software &amp; Skills</title>
+   <link href="http://192.168.1.234:4000//blog/2026-new-gear-software-skills.html"/>
+   <updated>2026-10-10T00:00:00+13:00</updated>
+   <id>http://192.168.1.234:4000/blog/new-gear-software-skills</id>
+   <content type="html">&lt;p&gt;So I’ve been recently learning &lt;a href=&quot;https://www.blackmagicdesign.com/products/davinciresolve/studio&quot; title=&quot;Davinci Resolve Studio&quot;&gt;DaVinci Resolve Studio&lt;/a&gt;, assisted with my &lt;a href=&quot;https://logickeyboard.com/shop/davinci-resolve-pc-backlit-titan-keyboard-5176p.html&quot; title=&quot;DaVinci Resolve TITAN Wireless Backlit Keyboard - Windows&quot;&gt;logickeyboard TITAN Keyboard&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Last month I picked up a &lt;a href=&quot;https://www.pbtech.co.nz/product/CAMDJI21106154/DJI-Osmo-Action-5-Pro-Adventu...</content>
+ </entry>
  
  <entry>
    <title>Let&apos;s talk about Snow White.</title>
@@ -32,16 +42,6 @@
 &lt;p&gt;I lost another close friend of mine back in late 2023, that hit me hard. Someone I talked to, almost daily for &lt;em&gt;literally&lt;/em&gt; hours on end, would often visit and hang out with suddenly passed away while at work, she felt unwell after leaving the bathroom and collapsed. That left a very big gap in my life.&lt;/p&gt;
 
 &lt;p&gt;Late June 2024, I upgraded my server, I was using a Lenovo Thinkcentre Tiny, a ...</content>
- </entry>
- 
- <entry>
-   <title>A Digital Nomad no more!</title>
-   <link href="http://192.168.1.234:4000//blog/2023-a-digital-nomad-no-more.html"/>
-   <updated>2023-05-03T00:00:00+12:00</updated>
-   <id>http://192.168.1.234:4000/blog/a-digital-nomad-no-more</id>
-   <content type="html">&lt;p&gt;Thankfully to &lt;a href=&quot;//kaingaora.govt.nz/&quot;&gt;Kainga Ora&lt;/a&gt;, we moved in a week ago and wow it’s been a big move, the house is newer, cleaner, warmer, bigger in general and it’s actually affordable.&lt;/p&gt;
-
-&lt;p&gt;We were staying in Emergency Accomodation at &lt;a href=&quot;//lakefrontlodgetaupo.co.nz/&quot;&gt;Lakefront Lodge, Taupo&lt;/a&gt; for about 3 months, which was okay. But it was getting to be rather difficult living in a situation like that for months on end, also long term EA was starting to affect my fat...</content>
  </entry>
  
 

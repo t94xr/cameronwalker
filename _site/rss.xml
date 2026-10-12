@@ -7,6 +7,16 @@
 		<atom:link href="http://192.168.1.234:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>New Gear, Software &amp; Skills</title>
+				<description>&lt;p&gt;So I’ve been recently learning &lt;a href=&quot;https://www.blackmagicdesign.com/products/davinciresolve/studio&quot; title=&quot;Davinci Resolve Studio&quot;&gt;DaVinci Resolve Studio&lt;/a&gt;, assisted with my &lt;a href=&quot;https://logickeyboard.com/shop/davinci-resolve-pc-backlit-titan-keyboard-5176p.html&quot; title=&quot;DaVinci Resolve TITAN Wireless Backlit Keyboard - Windows&quot;&gt;logickeyboard TITAN Keyboard&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Last month I picked up a &lt;a href=&quot;https://www.pbtech.co.nz/product/CAMDJI21106154/DJI-Osmo-Action-5-Pro-Adventu...</description>
+				<pubDate>Sat, 10 Oct 2026 00:00:00 +1300</pubDate>
+				<link>http://192.168.1.234:4000/blog/2026-new-gear-software-skills.html</link>
+				<guid isPermaLink="true">http://192.168.1.234:4000/blog/2026-new-gear-software-skills.html</guid>
+			</item>
+		
+			<item>
 				<title>Let&apos;s talk about Snow White.</title>
 				<description>&lt;p&gt;So I watched &lt;em&gt;Hollywood Confidential&lt;/em&gt;’s video on &lt;em&gt;Snow White&lt;/em&gt;, &lt;a href=&quot;https://youtu.be/LVJosjUNeNc&quot;&gt;&lt;strong&gt;Rachel Zegler DEMANDS South Park Episode Be BANNED After Getting Humiliated on TV!?&lt;/strong&gt;&lt;/a&gt;, and it covers the situation quite comprehensively.&lt;/p&gt;
 
@@ -26,16 +36,6 @@
 				<pubDate>Mon, 28 Apr 2025 01:00:00 +1200</pubDate>
 				<link>http://192.168.1.234:4000/blog/2025-hello-old-friend.html</link>
 				<guid isPermaLink="true">http://192.168.1.234:4000/blog/2025-hello-old-friend.html</guid>
-			</item>
-		
-			<item>
-				<title>A Digital Nomad no more!</title>
-				<description>&lt;p&gt;Thankfully to &lt;a href=&quot;//kaingaora.govt.nz/&quot;&gt;Kainga Ora&lt;/a&gt;, we moved in a week ago and wow it’s been a big move, the house is newer, cleaner, warmer, bigger in general and it’s actually affordable.&lt;/p&gt;
-
-&lt;p&gt;We were staying in Emergency Accomodation at &lt;a href=&quot;//lakefrontlodgetaupo.co.nz/&quot;&gt;Lakefront Lodge, Taupo&lt;/a&gt; for about 3 months, which was okay. But it was getting to be rather difficult living in a situation like that for months on end, also long term EA was starting to affect my fat...</description>
-				<pubDate>Wed, 03 May 2023 00:00:00 +1200</pubDate>
-				<link>http://192.168.1.234:4000/blog/2023-a-digital-nomad-no-more.html</link>
-				<guid isPermaLink="true">http://192.168.1.234:4000/blog/2023-a-digital-nomad-no-more.html</guid>
 			</item>
 		
 	</channel>
