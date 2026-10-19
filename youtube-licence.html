@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Royalty-Free YouTube-Only Attribution License</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fontsource-variable/inter/index.min.css">
+  <style>
+    :root {
+      --bg-color: #f1f3f5;
+      --doc-bg: #ffffff;
+      --text-color: #1a1a1a;
+      --heading-color: #111827;
+      --muted-color: #4b5563;
+      --border-color: #d1d5db;
+      --doc-width: 960px;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      background-color: var(--bg-color);
+      color: var(--text-color);
+      font-family: "Inter Variable", sans-serif;
+      font-size: 15px;
+      line-height: 1.7;
+      padding: 40px 16px;
+      letter-spacing: -0.5px;
+    }
+
+    .document-container {
+      max-width: var(--doc-width);
+      margin: 0 auto;
+      background: var(--doc-bg);
+      border: 1px solid var(--border-color);
+      box-shadow: 0 4px 18px rgba(0, 0, 0, 0.08);
+      padding: 30px 40px;
+    }
+
+    .doc-header {
+      text-align: center;
+      border-bottom: 2px solid #111;
+      padding-bottom: 24px;
+      margin-bottom: 32px;
+    }
+
+    .doc-header h1 {
+      font-size: 28px;
+      text-transform: uppercase;
+      color: var(--heading-color);
+      margin-bottom: 6px;
+    }
+
+    .doc-meta {
+      font-size: 13px;
+      color: var(--muted-color);
+      font-style: italic;
+    }
+
+    .preamble {
+      margin-bottom: 24px;
+    }
+
+    h2 {
+      font-size: 15px;
+      text-transform: uppercase;
+      letter-spacing: 0.8px;
+      margin-top: 28px;
+      margin-bottom: 12px;
+      color: var(--heading-color);
+      border-bottom: 1px solid var(--border-color);
+      padding-bottom: 4px;
+    }
+
+    p {
+      margin-bottom: 14px;
+    }
+
+    ul, ol {
+      margin-bottom: 16px;
+      padding-left: 24px;
+    }
+
+    ul {
+      list-style-type: disc;
+    }
+
+    ol {
+      list-style-type: decimal;
+    }
+
+    li {
+      margin-bottom: 10px;
+    }
+
+    li:last-child {
+      margin-bottom: 0;
+    }
+
+    /* Nested lists & list items */
+    li > ul,
+    li > ol {
+      margin-top: 8px;
+      margin-bottom: 8px;
+      padding-left: 20px;
+    }
+
+    li > ul {
+      list-style-type: circle;
+    }
+
+    li > ul > li > ul {
+      list-style-type: square;
+    }
+
+    li > ol {
+      list-style-type: lower-alpha;
+    }
+
+    li > ol > li > ol {
+      list-style-type: lower-roman;
+    }
+
+    li > ul > li,
+    li > ol > li {
+      margin-bottom: 6px;
+    }
+
+    /* Misc HTML elements */
+    strong, b {
+      font-weight: 600;
+      color: var(--heading-color);
+    }
+
+    em, i {
+      font-style: italic;
+    }
+
+    a {
+      color: #2563eb;
+      text-decoration: underline;
+      text-underline-offset: 2px;
+    }
+
+    a:hover {
+      color: #1d4ed8;
+    }
+
+    blockquote {
+      border-left: 3px solid var(--border-color);
+      padding-left: 16px;
+      margin: 16px 0;
+      color: var(--muted-color);
+      font-style: italic;
+    }
+
+    hr {
+      border: 0;
+      border-top: 1px solid var(--border-color);
+      margin: 24px 0;
+    }
+
+    code {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+      font-size: 0.9em;
+      background-color: #f3f4f6;
+      border: 1px solid var(--border-color);
+      border-radius: 4px;
+      padding: 2px 5px;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 16px 0;
+      font-size: 14px;
+    }
+
+    th, td {
+      border: 1px solid var(--border-color);
+      padding: 8px 12px;
+      text-align: left;
+    }
+
+    th {
+      background-color: #f9fafb;
+      font-weight: 600;
+    }
+
+    ol.clause-list {
+      list-style-type: none;
+      counter-reset: clause-counter;
+      margin-bottom: 16px;
+      padding-left: 0;
+    }
+
+    ol.clause-list > li {
+      counter-increment: clause-counter;
+      position: relative;
+      padding-left: 38px;
+      margin-bottom: 12px;
+    }
+
+    ol.clause-list > li::before {
+      content: counter(clause-counter) ". ";
+      position: absolute;
+      left: 0;
+      font-weight: 700;
+    }
+
+    ol.subclause-list {
+      list-style-type: lower-alpha;
+      padding-left: 24px;
+      margin-top: 8px;
+      margin-bottom: 8px;
+    }
+
+    ol.subclause-list > li {
+      margin-bottom: 6px;
+    }
+
+    .legal-notice {
+      text-transform: uppercase;
+      font-size: 13.5px;
+      letter-spacing: 0.3px;
+    }
+
+    .signatures {
+      margin-top: 48px;
+      padding-top: 24px;
+      border-top: 1px solid var(--border-color);
+      display: flex;
+      gap: 40px;
+    }
+
+    .signature-block {
+      flex: 1;
+    }
+
+    .signature-line {
+      margin-top: 50px;
+      border-top: 1px solid #111;
+      padding-top: 8px;
+      font-size: 13px;
+    }
+
+    .signature-line span {
+      display: block;
+      margin-bottom: 4px;
+    }
+
+    .doc-footer {
+      margin-top: 40px;
+      text-align: center;
+      font-size: 12px;
+      color: var(--muted-color);
+      border-top: 1px dashed var(--border-color);
+      padding-top: 16px;
+    }
+
+    @media print {
+      body {
+        background-color: #fff;
+        padding: 0;
+      }
+
+      .document-container {
+        box-shadow: none;
+        border: none;
+        padding: 0;
+        max-width: 100%;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <article class="document-container">
+    <header class="doc-header">
+      <h1>Royalty-Free YouTube-Only Attribution License</h1>
+      <div class="doc-meta">Media Licence for NZ Stock Video Footage - <a href="https://www.youtube.com/@nzstockvideofootage">@nzstockvideofootage</a><br>
+      Last Updated: October 14, 2026</div>
+      </div>
+    </header>
+
+    <section class="preamble">
+      <p>This video content on this YouTube channel is licensed under Attribution-NonCommercial 4.0 International <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener noreferrer">CC BY-NC 4.0</a>.</p>
+      <p>However, as an additional permission under CC+, commercial monetization is explicitly permitted solely for independent creators incorporating this footage into videos uploaded to YouTube, provided proper attribution is given. All other commercial, broadcast, or corporate use outside of YouTube remains prohibited.</p>
+    <ul>
+      <li><strong>Grant of Rights:</strong> You are granted a free, worldwide, non-exclusive license to download, remix, and build upon this video.</li>
+      <li><strong>Attribution Required:</strong> You must credit the NZ Stock Video Footage in the description or credits of your project.
+        <blockquote>
+          <em>Media sourced from NZ Stock Video Footage - <a href="https://www.youtube.com/@nzstockvideofootage">@nzstockvideofootage</a></em>
+        </blockquote> 
+      </li>
+      <li><strong>Permitted Commercial Use:</strong> You may monetize your video containing this footage only via the YouTube Partner Programme.</li>
+      <li><strong>Prohibited Use:</strong> You may not use this footage in the usage scenarios below, without an explicit commercial upgrade license.
+        <ul>
+          <li>television broadcasts</li>
+          <li>theatrical films</li>
+          <li>paid video/print/digital advertisements</li>
+          <li>physical merchandise</li>
+          <li>other commercial streaming/VOD platforms</li>
+        </ul>
+        Under no circumstances may you directly resell the raw footage, or package the raw footage with other media for redistribution, even if you have a commercial upgrade license.</li>
+    </section>
+
+    <section class="preamble">
+      <h2>Commercial Upgrade Licence</h2>
+      <p>Please contact <a href="mailto:me@cameronwalker.nz">me@cameronwalker.nz</a> for more information about obtaining a commercial upgrade license.</p>
+      <p>Please note that the commercial upgrade license is required for any use of the footage outside of the permitted YouTube-only attribution license.</p>
+    </section>
+
+    <footer class="doc-footer">
+      NZ Stock Video Footage - <a href="https://www.youtube.com/@nzstockvideofootage">@nzstockvideofootage</a>
+    </footer>
+  </article>
+
+</body>
+</html>
